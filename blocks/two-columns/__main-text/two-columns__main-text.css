@@ -1,0 +1,12 @@
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-right: 10px;
+  margin: 0;
+  align-items: baseline;
+  list-style-type: none;
+  width: 80%;
+  min-width: 784px;
+  box-sizing: border-box;
+}
